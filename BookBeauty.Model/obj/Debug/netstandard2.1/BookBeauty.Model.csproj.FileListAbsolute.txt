@@ -1,0 +1,9 @@
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\bin\Debug\netstandard2.1\BookBeauty.Model.deps.json
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\bin\Debug\netstandard2.1\BookBeauty.Model.dll
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\bin\Debug\netstandard2.1\BookBeauty.Model.pdb
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\obj\Debug\netstandard2.1\BookBeauty.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\obj\Debug\netstandard2.1\BookBeauty.Model.AssemblyInfoInputs.cache
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\obj\Debug\netstandard2.1\BookBeauty.Model.AssemblyInfo.cs
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\obj\Debug\netstandard2.1\BookBeauty.Model.csproj.CoreCompileInputs.cache
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\obj\Debug\netstandard2.1\BookBeauty.Model.dll
+C:\Users\elmin\source\repos\BookBeauty\BookBeauty.Model\obj\Debug\netstandard2.1\BookBeauty.Model.pdb
